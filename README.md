@@ -1,2 +1,25 @@
-# guardians-of-dafeng
-Old school FRPG based on the Chinese TV series.  Pointer repository for Guardians of Dafeng. The canonical repository is hosted on Nexus/Forgejo.
+# Guardians of Dafeng
+
+This GitHub repository is a pointer only.
+
+The true and authoritative repository for **Guardians of Dafeng** is hosted on the Silotech Nexus/Forgejo server:
+
+**Canonical repository README:**  
+https://nexus.xinle.biz/git/jbarrett/GoD/src/branch/master/README.md
+
+## Source of Truth
+
+All active development, source code, issues, documentation, and updates should be handled in the Nexus/Forgejo repository.
+
+Do not treat this GitHub repository as the authoritative source.
+
+## Forgejo Repository
+
+Use the Nexus/Forgejo repository here:
+
+https://nexus.xinle.biz/git/jbarrett/GoD
+
+## Clone from the true repository
+
+```bash
+git clone https://nexus.xinle.biz/git/jbarrett/GoD.git
