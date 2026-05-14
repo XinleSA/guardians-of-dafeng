@@ -19,8 +19,4 @@ Use the Nexus/Forgejo repository here:
 
 https://nexus.xinle.biz/git/jbarrett/GoD
 
-## Clone from the true repository
-
-```bash
-git clone https://nexus.xinle.biz/git/jbarrett/GoD.git
-
+<hr>
